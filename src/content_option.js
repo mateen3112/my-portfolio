@@ -111,7 +111,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/mateen3121",
+    github: "https://github.com/mateen3112",
     linkedin: "https://www.linkedin.com/in/shaik-shoyab-mateen-001b471b0/",
     twitter: "https://x.com/MateenShoy25469",
 };
